@@ -11,6 +11,7 @@ const GameOverScreen = ({ roundsNumber, userNumber, onRestart }) => {
             <View style={styles.imageContainer}>
                 <Image
                     source={require('../assets/success.png')}
+                    // source={{uri: 'https://images.com'}}
                     style={styles.image}
                     resizeMode="cover"
                 />
