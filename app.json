@@ -1,9 +1,8 @@
 {
   "expo": {
-    "name": "guess_number",
-    "slug": "guess_number",
+    "name": "RN Guess Number",
+    "slug": "rn_guess_number",
     "platforms": [
-      "ios",
       "android",
       "web"
     ],
@@ -21,6 +20,14 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android": {
+      "package": "com.belchenkov.rn_guess_number",
+      "versionCode": 1,
+      "permissions": [
+        "CAMERA",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
     "ios": {
       "supportsTablet": true
     }
