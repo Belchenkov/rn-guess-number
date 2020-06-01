@@ -2,7 +2,7 @@
 
 > Build Game "Guess a Number" with React Native
 
-### [Demo]:(https://expo.io/@belchenkov/rn_guess_number)
+### [Demo](https://expo.io/@belchenkov/rn_guess_number)
 
 #### Get started
 ```sh
